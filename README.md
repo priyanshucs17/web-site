@@ -1,4 +1,6 @@
 # web-site
-this is just a sampleEdit on example branch.
+this is just a sample
+
+Edit on example branch.
 
 
